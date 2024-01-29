@@ -1,0 +1,18 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(to top, #BA90C6, #C0DBEA);
+}
+.card{
+    margin: auto;
+    background-color: #FDF4F5;
+}
+.my-btn{
+    background-color: #BA90C6;
+    color: #FFFFFF;
+}
+.my-btn:hover{
+    background-color: #E8A0BF;
+    color: #FFFFFF;
+}
